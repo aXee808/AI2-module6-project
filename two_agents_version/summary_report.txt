@@ -1,0 +1,56 @@
+**Energy Consumption Summary Report**
+**Period of Data:** January 1, 2026 00:00:00 to January 8, 2026 00:00:00
+
+**Resource Breakdown:**
+-------------------------------------------
+
+### Servers
+
+1. Server 1: 14,960 Wh, 7.106 kg CO2
+2. Server 2: 14,280 Wh, 6.783 kg CO2
+3. Server 3: 14,280 Wh, 6.783 kg CO2
+4. Server 4: 14,280 Wh, 6.783 kg CO2
+5. Server 5: 14,280 Wh, 6.783 kg CO2
+6. Server 6: 14,280 Wh, 6.783 kg CO2
+7. Server 7: 14,280 Wh, 6.783 kg CO2
+8. Server 8: 14,280 Wh, 6.783 kg CO2
+9. Server 9: 14,280 Wh, 6.783 kg CO2
+10. Server 10: 14,280 Wh, 6.783 kg CO2
+
+### Workstations
+
+1. Workstation 1: 5,040 Wh, 2.394 kg CO2
+2. Workstation 2: 5,004 Wh, 2.377 kg CO2
+3. Workstation 3: 5,040 Wh, 2.394 kg CO2
+4. Workstation 4: 5,040 Wh, 2.394 kg CO2
+5. Workstation 5: 5,040 Wh, 2.394 kg CO2
+6. Workstation 6: 5,040 Wh, 2.394 kg CO2
+7. Workstation 7: 5,040 Wh, 2.394 kg CO2
+8. Workstation 8: 5,040 Wh, 2.394 kg CO2
+9. Workstation 9: 5,040 Wh, 2.394 kg CO2
+10. Workstation 10: 5,040 Wh, 2.394 kg CO2
+11. Workstation 11: 5,040 Wh, 2.394 kg CO2
+12. Workstation 12: 5,040 Wh, 2.394 kg CO2
+13. Workstation 13: 5,040 Wh, 2.394 kg CO2
+14. Workstation 14: 5,040 Wh, 2.394 kg CO2
+15. Workstation 15: 5,040 Wh, 2.394 kg CO2
+16. Workstation 16: 5,040 Wh, 2.394 kg CO2
+17. Workstation 17: 5,040 Wh, 2.394 kg CO2
+18. Workstation 18: 5,040 Wh, 2.394 kg CO2
+19. Workstation 19: 5,040 Wh, 2.394 kg CO2
+20. Workstation 20: 5,040 Wh, 2.394 kg CO2
+
+### Automates
+
+1. Automate 1: 25,350 Wh, 12.041 kg CO2
+2. Automate 2: 25,200 Wh, 11.97 kg CO2
+3. Automate 3: 25,200 Wh, 11.97 kg CO2
+4. Automate 4: 25,200 Wh, 11.97 kg CO2
+5. Automate 5: 25,200 Wh, 11.97 kg CO2
+
+### Internet Gateway
+
+1. Internet Gateway 1: 8,400 Wh, 3.99 kg CO2
+
+**Total Energy Consumption:** 378,794 Wh
+**Total CO2 Emissions:** 179.93 kg
