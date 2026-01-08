@@ -1,0 +1,188 @@
+{
+  "period_start": "2026-01-01 00:00:00",
+  "period_end": "2026-01-08 00:00:00",
+  "resources": {
+    "server_1": {
+      "type": "server",
+      "energy_wh": 14960.0,
+      "co2_kg": 7.106
+    },
+    "server_2": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_3": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_4": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_5": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_6": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_7": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_8": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_9": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "server_10": {
+      "type": "server",
+      "energy_wh": 14280.0,
+      "co2_kg": 6.7829999999999995
+    },
+    "workstation_1": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_2": {
+      "type": "workstation",
+      "energy_wh": 5004.0,
+      "co2_kg": 2.3768999999999996
+    },
+    "workstation_3": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_4": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_5": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_6": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_7": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_8": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_9": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_10": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_11": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_12": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_13": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_14": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_15": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_16": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_17": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_18": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_19": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "workstation_20": {
+      "type": "workstation",
+      "energy_wh": 5040.0,
+      "co2_kg": 2.3939999999999997
+    },
+    "automate_1": {
+      "type": "automate",
+      "energy_wh": 25350.0,
+      "co2_kg": 12.04125
+    },
+    "automate_2": {
+      "type": "automate",
+      "energy_wh": 25200.0,
+      "co2_kg": 11.969999999999999
+    },
+    "automate_3": {
+      "type": "automate",
+      "energy_wh": 25200.0,
+      "co2_kg": 11.969999999999999
+    },
+    "automate_4": {
+      "type": "automate",
+      "energy_wh": 25200.0,
+      "co2_kg": 11.969999999999999
+    },
+    "automate_5": {
+      "type": "automate",
+      "energy_wh": 25200.0,
+      "co2_kg": 11.969999999999999
+    },
+    "internet_gateway_1": {
+      "type": "internet_gateway",
+      "energy_wh": 8400.0,
+      "co2_kg": 3.9899999999999998
+    }
+  },
+  "total_energy_wh": 378794.0,
+  "total_co2_kg": 179.92715000000013
+}

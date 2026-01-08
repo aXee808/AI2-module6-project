@@ -1,0 +1,42 @@
+{
+  "server_1": {
+    "type": "server",
+    "events": [
+      {
+        "event_id": 4987616,
+        "timestamp_start_event": "2026-01-07T16:02:08.815888",
+        "timestamp_end_event": "2026-01-07T16:02:08.815888",
+        "duration_event": "21654654",
+        "event_type": "cpu_overflow"
+      }
+    ]
+  },
+  "workstation_2": {
+    "type": "workstation",
+    "events": [
+      {
+        "event_id": 4987617,
+        "timestamp_start_event": "2026-01-07T09:00:00.000000",
+        "timestamp_end_event": "2026-01-07T11:00:00.000000",
+        "duration_event": "7200",
+        "event_type": "software_update"
+      }
+    ]
+  },
+  "automate_1": {
+    "type": "automate",
+    "events": [
+      {
+        "event_id": 4987618,
+        "timestamp_start_event": "2026-01-07T14:30:00.000000",
+        "timestamp_end_event": "2026-01-07T15:00:00.000000",
+        "duration_event": "1800",
+        "event_type": "fan_failure"
+      }
+    ]
+  },
+  "internet_gateway_1": {
+    "type": "internet_gateway",
+    "events": []
+  }
+}
