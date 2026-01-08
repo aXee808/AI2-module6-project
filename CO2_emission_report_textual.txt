@@ -1,0 +1,84 @@
+================================================================================
+CO2 EMISSION REPORT - WEEKLY SUMMARY
+================================================================================
+
+Report Period: 2026-01-01T11:32:51.255960 to 2026-01-08T11:32:51.255960
+Generated At: 2026-01-08T11:33:22.410489
+
+--------------------------------------------------------------------------------
+EXECUTIVE SUMMARY
+--------------------------------------------------------------------------------
+Total CO2 Emissions: 351.40 kg
+Total Energy Consumption: 702.81 kWh
+
+--------------------------------------------------------------------------------
+CO2 EMISSIONS BY RESOURCE CATEGORY
+--------------------------------------------------------------------------------
+Server: 135.57 kg CO2 (10 resources)
+Workstation: 98.28 kg CO2 (20 resources)
+Automate: 113.36 kg CO2 (5 resources)
+Internet_gateway: 4.19 kg CO2 (1 resources)
+
+--------------------------------------------------------------------------------
+CO2 EMISSIONS AND FAILURE PROBABILITY PER RESOURCE
+--------------------------------------------------------------------------------
+
+AUTOMATE Resources:
+----------------------------------------
+  automate_2                     | CO2:    12.60 kg | Energy:    25.20 kWh | Failure Prob: 0.00% | Events: 0
+  automate_3                     | CO2:    12.60 kg | Energy:    25.20 kWh | Failure Prob: 0.00% | Events: 0
+  automate_4                     | CO2:    12.60 kg | Energy:    25.20 kWh | Failure Prob: 0.00% | Events: 0
+  automate_5                     | CO2:    12.60 kg | Energy:    25.20 kWh | Failure Prob: 0.00% | Events: 0
+  automate_1                     | CO2:    12.56 kg | Energy:    25.12 kWh | Failure Prob: 70.00% | Events: 1
+
+INTERNET_GATEWAY Resources:
+----------------------------------------
+  internet_gateway_1             | CO2:     4.19 kg | Energy:     8.38 kWh | Failure Prob: 75.00% | Events: 1
+
+SERVER Resources:
+----------------------------------------
+  server_1                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_2                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_4                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_5                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_6                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_7                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_8                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_9                       | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_10                      | CO2:     7.14 kg | Energy:    14.28 kWh | Failure Prob: 0.00% | Events: 0
+  server_3                       | CO2:     7.05 kg | Energy:    14.11 kWh | Failure Prob: 52.50% | Events: 2
+
+WORKSTATION Resources:
+----------------------------------------
+  workstation_7                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 20.00% | Events: 1
+  workstation_1                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_2                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_3                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_4                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_5                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_6                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_8                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_9                  | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_10                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_11                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_12                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_13                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_14                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_15                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_16                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_17                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_18                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_19                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+  workstation_20                 | CO2:     2.52 kg | Energy:     5.04 kWh | Failure Prob: 0.00% | Events: 0
+
+--------------------------------------------------------------------------------
+RECOMMENDATIONS TO REDUCE CO2 EMISSIONS
+--------------------------------------------------------------------------------
+
+1. 1. Replace or upgrade the top CO2 emitting automates (automate_1 to automate_5) with energy-efficient models. Given that each automate currently emits approximately 12.6 kg of CO2, replacing all 5 with models that reduce energy consumption by 30% could save around 31.5 kg of CO2 emissions (5 automates * 12.6 kg * 0.30).
+
+2. 2. Implement a scheduled power management policy for the workstations, reducing their operational hours during non-peak times. If the 20 workstations can be powered down for 4 hours a day, this could save approximately 20% of their energy consumption, leading to a potential reduction of around 19.66 kg of CO2 emissions (assuming each workstation consumes about 0.5 kWh per hour).
+
+3. 3. Replace the high-failure probability internet gateway (internet_gateway_1) with a more reliable and energy-efficient model. Given its current CO2 emission of 4.19 kg, a new gateway could potentially reduce energy consumption by 25%, leading to a reduction of approximately 1.05 kg of CO2 emissions (4.19 kg * 0.25).
+
+================================================================================
